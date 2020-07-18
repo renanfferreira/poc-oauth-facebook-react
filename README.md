@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Para o app ser renderizado, é necessário chamar o método window.mount() (foi realizado desta forma para estudar outros requisitos)
+
 ## Available Scripts
 
 In the project directory, you can run:
