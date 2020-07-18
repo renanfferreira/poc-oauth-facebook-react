@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To render this app, call the method window.mount() (coded this way for studies purposes)
 
-Para o app ser renderizado, é necessário chamar o método window.mount() (foi realizado desta forma para estudar outros requisitos)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
